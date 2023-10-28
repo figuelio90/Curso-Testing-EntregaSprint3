@@ -1,4 +1,3 @@
-from Functions.Functions import Functions as Selenium 
 import pyautogui
 import unittest
 import time
